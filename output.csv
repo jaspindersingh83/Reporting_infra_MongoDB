@@ -1,0 +1,21 @@
+_id,num_status
+On Hold During Delivery,1
+Lost,13
+In Transit,3579
+On Hold,297
+Dispatched From Origin Hub,2136
+Delivery Attempted,530
+Returning To Origin,31810
+Created,326737
+Returned To Origin,2108
+Confirmed,15744
+Received At Hub,1971
+Picked Up,1264
+On Our Way,157
+Exception,334
+blank,154370
+Delivered,414730
+Not Going,1
+Out For Delivery,2360
+Cancelled,72064
+Inititated,23794
